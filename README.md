@@ -1,2 +1,1 @@
-My first readme. 
-It's weekend and working on my ALX projects has been fun!
+This file is mandatory to all ALX students, no matter your PATH!
